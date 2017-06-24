@@ -34,7 +34,7 @@
     "chalk": "^1.1.3",
     "yosay": "^2.0.0"
   },
-  "jest": {
+  "test": {
     "testEnvironment": "node"
   },
   "scripts": {
