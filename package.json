@@ -45,7 +45,7 @@
   "eslintConfig": {
     "extends": "xo-space",
     "env": {
-      "jest": true,
+      "test": true,
       "node": true
     }
   },
