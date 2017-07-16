@@ -40,6 +40,10 @@ module.exports = class extends Generator {
       this.templatePath('dist/*'),
       this.destinationPath('./dist/')
     );
+    this.fs.copy(
+      this.templatePath('.eslint.json'),
+      this.destinationPath('./.eslint.json')
+    );
   }
 
   Prompting() {
