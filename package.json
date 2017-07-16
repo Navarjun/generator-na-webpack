@@ -1,6 +1,6 @@
 {
   "name": "generator-na-webpack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple webpack boilerplate for es6 front-end projects",
   "homepage": "navarjun/na-webpack",
   "author": {
